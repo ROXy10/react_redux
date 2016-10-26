@@ -4,6 +4,7 @@
   "description": "React JS - Redux tutorial",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages-deploy",
     "start": "node server.js"
   },
   "author": "Vadim Kulaha",
